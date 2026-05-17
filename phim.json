@@ -1,469 +1,1233 @@
 {
   "movies": [
     {
-      "title": "KILL BLUE",
-      "status": "Full 6 Tập",
-      "thumb_url": "https://cdn.rophim.co.com/storage/images/kill-blue-thumb.webp",
+      "title": "Đứa Con Của Thần Tượng",
+      "status": "Full 3 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/dua-con-cua-than-tuong-phan-3-thumb.jpg",
       "episodes": [
         {
           "text": "Tập 1",
-          "url": "https://vip.opstream90.com/20260412/29284_cd3c3a90/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20260115/22418_88213680/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 2",
-          "url": "https://vip.opstream90.com/20260423/30023_c121944d/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20260122/22872_fc7cfd29/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 3",
-          "url": "https://vip.opstream90.com/20260427/30339_8135d1bf/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 4",
-          "url": "https://vip.opstream90.com/20260503/30794_02c67469/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 5",
-          "url": "https://vip.opstream90.com/20260510/31477_9dfe9454/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 6",
-          "url": "https://vip.opstream90.com/20260517/32142_17250557/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20260129/23390_b75fccec/3000k/hls/mixed.m3u8"
         }
       ]
     },
     {
-      "title": "Chuyện Kể Của Akane",
-      "status": "Full 7 Tập",
-      "thumb_url": "https://cdn.rophim.co.com/storage/images/4a85124c6909360ca8f62b21c7ff86b2.webp",
+      "title": "Bí Mật Của Phù Thủy Tĩnh Lặng",
+      "status": "Full 13 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/bi-mat-cua-phu-thuy-tinh-lang-thumb.jpg",
       "episodes": [
         {
           "text": "Tập 1",
-          "url": "https://vip.opstream90.com/20260408/28973_e6ceb6cd/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14176_9dbffba2/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 2",
-          "url": "https://vip.opstream90.com/20260412/29282_81947586/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14177_804a73df/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 3",
-          "url": "https://vip.opstream90.com/20260419/29724_0ed3f657/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14178_d185c5ed/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 4",
-          "url": "https://vip.opstream90.com/20260505/30998_ef6454c4/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14179_2677c94c/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 5",
-          "url": "https://vip.opstream90.com/20260505/30999_a1950012/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14180_6d0893ce/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 6",
-          "url": "https://vip.opstream90.com/20260510/31476_78147341/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14181_55f04ea8/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 7",
-          "url": "https://vip.opstream90.com/20260517/32148_c5fb163f/3000k/hls/mixed.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Đại Hiền Giả Riddle Hồi Quy Báo Thù (Daikenja Riddle no Jikan Gyakkou)",
-      "status": "Full 7 Tập",
-      "thumb_url": "https://cdn.rophim.co.com/storage/images/8afa96862e0268ea258b4a802d0e8d99.webp",
-      "episodes": [
-        {
-          "text": "Tập 1",
-          "url": "https://s6.kkphimplayer6.com/20260407/kvBS5MGB/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 2",
-          "url": "https://s6.kkphimplayer6.com/20260412/H5Ua5GgU/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 3",
-          "url": "https://v7.kkphimplayer7.com/20260419/2LujqyHk/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 4",
-          "url": "https://v7.kkphimplayer7.com/20260426/CCP6tIjF/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 5",
-          "url": "https://v7.kkphimplayer7.com/20260503/cCqFVmoH/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 6",
-          "url": "https://v7.kkphimplayer7.com/20260516/jBe4a2yp/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 7",
-          "url": "https://v7.kkphimplayer7.com/20260516/1ZNyrEx3/3500kb/hls/index.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Sứ Giả Bốn Mùa - Vũ Điệu Mùa Xuân",
-      "status": "Full 8 Tập",
-      "thumb_url": "https://cdn.rophim.co.com/storage/images/su-gia-bon-mua-vu-dieu-mua-xuan-thumb.webp",
-      "episodes": [
-        {
-          "text": "Tập 1",
-          "url": "https://vip.opstream90.com/20260401/28385_900e9a6c/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 2",
-          "url": "https://vip.opstream90.com/20260405/28840_fe5e746f/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 3",
-          "url": "https://vip.opstream90.com/20260412/29292_dbc6904b/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 4",
-          "url": "https://vip.opstream90.com/20260419/29727_f7fb4371/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 5",
-          "url": "https://vip.opstream90.com/20260426/30253_7e909d0e/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 6",
-          "url": "https://vip.opstream90.com/20260503/30796_42ca5f08/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 7",
-          "url": "https://vip.opstream90.com/20260510/31481_5a897c4a/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14182_093c72c5/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 8",
-          "url": "https://vip.opstream90.com/20260517/31994_2755ed63/3000k/hls/mixed.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Lại Bị Giết Nữa À, Thưa Thám Tử? (Mata Korosarete Shimatta no desu ne, Tantei-sama)",
-      "status": "Full 7 Tập",
-      "thumb_url": "https://cdn.rophim.co.com/storage/images/4f566d4b42cdc2b6c4258def0d878a99.webp",
-      "episodes": [
-        {
-          "text": "Tập 1",
-          "url": "https://s6.kkphimplayer6.com/20260407/jstwf1FT/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14183_37bd8b4b/3000k/hls/mixed.m3u8"
         },
         {
-          "text": "Tập 2",
-          "url": "https://s6.kkphimplayer6.com/20260411/ZdEvCOaI/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 3",
-          "url": "https://v7.kkphimplayer7.com/20260418/5denJgKl/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 4",
-          "url": "https://v7.kkphimplayer7.com/20260503/jUqV1kXk/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 5",
-          "url": "https://v7.kkphimplayer7.com/20260517/Yuwx0ZVC/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 6",
-          "url": "https://v7.kkphimplayer7.com/20260517/ht78JKpW/index.m3u8"
-        },
-        {
-          "text": "Tập 7",
-          "url": "https://v7.kkphimplayer7.com/20260517/zCsawkEY/3500kb/hls/index.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Sát Thủ Đi Học",
-      "status": "Full 6 Tập",
-      "thumb_url": "https://cdn.rophim.co.com/storage/images/d227b15e62f370befc4cece6b751caa2.webp",
-      "episodes": [
-        {
-          "text": "Tập 1",
-          "url": "https://s6.kkphimplayer6.com/20260412/OLco34FW/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 2",
-          "url": "https://v7.kkphimplayer7.com/20260419/psSwNUxf/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 3",
-          "url": "https://v7.kkphimplayer7.com/20260426/WAxKYesG/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 4",
-          "url": "https://v7.kkphimplayer7.com/20260503/S6r8jiDd/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 5",
-          "url": "https://v7.kkphimplayer7.com/20260509/CDv3lZPJ/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 6",
-          "url": "https://v7.kkphimplayer7.com/20260516/dc9jY4uZ/3500kb/hls/index.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Song Mệnh Cõi Hoàng Tuyền",
-      "status": "Full 7 Tập",
-      "thumb_url": "https://cdn.rophim.co.com/storage/images/song-menh-coi-hoang-tuyen-thumb.webp",
-      "episodes": [
-        {
-          "text": "Tập 1",
-          "url": "https://vip.opstream90.com/20260405/28841_92b5e9da/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 2",
-          "url": "https://vip.opstream90.com/20260412/29283_eb39b5b5/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 3",
-          "url": "https://vip.opstream90.com/20260419/29726_5e9f086b/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 4",
-          "url": "https://vip.opstream90.com/20260426/30252_75181a27/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 5",
-          "url": "https://vip.opstream90.com/20260503/30795_80f2ef94/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 6",
-          "url": "https://vip.opstream90.com/20260510/31478_dee75395/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 7",
-          "url": "https://vip.opstream90.com/20260517/31993_f6bb3604/3000k/hls/mixed.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Trái Đất Đóng Băng",
-      "status": "Full 7 Tập",
-      "thumb_url": "https://cdn.rophim.co.com/storage/images/trai-dat-dong-bang-thumb.webp",
-      "episodes": [
-        {
-          "text": "Tập 1",
-          "url": "https://vip.opstream90.com/20260408/28976_cd65710f/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 2",
-          "url": "https://vip.opstream90.com/20260411/29241_1365edf8/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 3",
-          "url": "https://vip.opstream90.com/20260418/29688_967d1576/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 4",
-          "url": "https://vip.opstream90.com/20260426/30269_03de7a07/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 5",
-          "url": "https://vip.opstream90.com/20260502/30753_ac0d7b02/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 6",
-          "url": "https://vip.opstream90.com/20260509/31429_2cb003b4/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 7",
-          "url": "https://vip.opstream90.com/20260516/31902_24c301e0/3000k/hls/mixed.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Trạch Thiên Ký",
-      "status": "Full 12 Tập",
-      "thumb_url": "https://img.ophim.live/uploads/movies/trach-thien-ky-phan-4-thumb.jpg",
-      "episodes": [
-        {
-          "text": "Tập 01",
-          "url": "https://vip.opstream11.com/20220606/28609_b2682ba0/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 02",
-          "url": "https://vip.opstream11.com/20220606/28610_804286d9/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 03",
-          "url": "https://vip.opstream11.com/20220606/28611_3e870c2e/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 04",
-          "url": "https://vip.opstream11.com/20220606/28612_87d84e13/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 05",
-          "url": "https://vip.opstream11.com/20220606/28613_e4a33cce/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 06",
-          "url": "https://vip.opstream11.com/20220606/28614_238a139a/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 07",
-          "url": "https://vip.opstream11.com/20220606/28615_acea0f13/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 08",
-          "url": "https://vip.opstream11.com/20220606/28616_496cb47c/3000k/hls/mixed.m3u8"
-        },
-        {
-          "text": "Tập 09",
-          "url": "https://vip.opstream11.com/20220606/28617_6d663d85/3000k/hls/mixed.m3u8"
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20251006/14184_76c0df06/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 10",
-          "url": "https://vip.opstream11.com/20220606/28618_c80369ea/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14185_a0cce36d/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 11",
-          "url": "https://vip.opstream11.com/20220606/28619_753889c7/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14186_d07d8b37/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 12",
-          "url": "https://vip.opstream11.com/20220606/28620_a051d61c/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream90.com/20251006/14187_24a7ffe3/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 13",
+          "url": "https://vip.opstream90.com/20251006/14188_2e098110/3000k/hls/mixed.m3u8"
         }
       ]
     },
     {
-      "title": "Snowball Earth: Trái Đất Đóng Băng",
-      "status": "Full 7 Tập",
-      "thumb_url": "https://cdn.rophim.co.com/storage/images/1d64a782edacee880b7ca8255d2b02dd.webp",
+      "title": "Trên cả vợ chồng, nhưng dưới tình nhân",
+      "status": "Full 12 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/tren-ca-vo-chong-nhung-duoi-tinh-nhan-thumb.jpg",
       "episodes": [
         {
           "text": "Tập 1",
-          "url": "https://s6.kkphimplayer6.com/20260407/NQ7VU4w1/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream15.com/20230117/31842_22fffe76/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 2",
-          "url": "https://s6.kkphimplayer6.com/20260411/nlj6xVuM/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream15.com/20230117/31838_0b2c7707/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 3",
-          "url": "https://v7.kkphimplayer7.com/20260425/DH63K9mL/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream15.com/20230117/31837_47468b16/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 4",
-          "url": "https://v7.kkphimplayer7.com/20260425/7E512jjO/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream15.com/20230117/31839_bf5ec4c3/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 5",
-          "url": "https://v7.kkphimplayer7.com/20260502/HxvUWV6t/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream15.com/20230117/31840_f69869ed/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 6",
-          "url": "https://v7.kkphimplayer7.com/20260509/QNh93pJG/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream15.com/20230117/31841_c2f70642/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 7",
-          "url": "https://v7.kkphimplayer7.com/20260515/mqQ8Q4Mx/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream15.com/20230117/31844_bc3e8d35/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream15.com/20230117/31843_faa313d3/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream15.com/20230117/31845_00d703e0/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream15.com/20230117/31847_12819b20/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream15.com/20230117/31846_6fa89bf6/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream15.com/20230117/31848_fbc27a31/3000k/hls/mixed.m3u8"
         }
       ]
     },
     {
-      "title": "Lúc đó, tôi đã chuyển sinh thành slime",
+      "title": "Sự Trỗi Dậy Của Khiên Anh Hùng",
+      "status": "Full 12 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/su-troi-day-cua-khien-anh-hung-phan-4-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20251115/17766_a530271b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20251115/17767_25191c00/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20251115/17768_5934fb29/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20251115/17769_02521712/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20251115/17770_a96ee5a5/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20251115/17771_6a9c2c5b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20251115/17772_dd14656b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20251115/17773_74c4ca05/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20251115/17774_aeeb6d8b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20251115/17775_8844778f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20251115/17776_6d5768ba/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20251115/17777_9b0f4932/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Học Viện Anh Hùng: Vigilantes",
+      "status": "Full 4 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/hoc-vien-anh-hung-vigilantes-phan-2-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20260108/21900_1b984659/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20260113/22250_6f76dbbe/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20260119/22776_ce3fe4ca/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20260126/23165_a43fa8be/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Hoa thơm kiêu hãnh",
+      "status": "Full 13 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/hoa-thom-kieu-hanh-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20250713/8692_7bd87e2f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20250721/9085_01c6fc8b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20250727/9615_db759470/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20250803/10033_10fa5eb8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20250810/10369_579600f6/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20250817/10739_ff685590/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20250824/11153_498f940d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20250831/11500_bdcb5c74/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20250907/11946_6c8ef13d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20250914/12329_3a098b02/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20250929/13283_28aec02f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20250929/13284_52d5d0f1/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 13",
+          "url": "https://vip.opstream90.com/20251005/14097_dad1b057/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Engage Kiss",
+      "status": "Full 13 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/engage-kiss-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream14.com/20220703/16783_dfaeea07/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream14.com/20220710/17866_b90389dc/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream14.com/20220717/18335_b37eb47f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream14.com/20220724/18836_ba1b88df/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream14.com/20220731/19273_29b55295/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream14.com/20220806/19662_b945c1b4/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream14.com/20220813/20143_f6b63547/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream11.com/20220821/35931_17d3855f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream11.com/20220828/36042_316839c2/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream15.com/20230306/35390_1aa0b982/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream11.com/20220910/36331_5d9336b6/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream11.com/20220917/36457_d8f565a8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 13",
+          "url": "https://vip.opstream11.com/20220924/36499_8660499e/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Địa Ngục Cực Lạc",
+      "status": "Full 3 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/dia-nguc-cuc-lac-phan-2-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20260112/22207_97fb3574/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20260119/22751_27ec7e21/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20260126/23116_693ba075/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Hồi Sinh Thành Quái Vật",
+      "status": "Full 12 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/hoi-sinh-thanh-quai-vat-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20250416/4378_50a074e6/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20250416/4379_1f187c8b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20250416/4380_2b1905b5/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20250416/4381_d2e9dd9d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20250416/4382_9bab7341/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20250416/4383_6de4bfe9/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20250416/4384_12e59a33/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20250416/4385_65f148c8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20250416/4386_4bb948d5/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20250416/4387_6b4e2b93/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20250416/4388_473803f0/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20250416/4389_0d27688c/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Vong Linh Đau Khổ Muốn Giải Nghệ",
+      "status": "Full 11 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/vong-linh-dau-kho-muon-giai-nghe-phan-2-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20251004/13972_c4d85615/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20251012/14751_efad653e/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20251019/15388_449ef87e/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20251026/16106_cab89614/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20251101/16662_f7084c8d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20251109/17181_d034a7ed/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20251116/17788_fbb25c1f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20251123/18300_49d86226/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20251129/18807_549fce6b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20251207/19444_b2e466c9/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream17.com/20251213/24946_52ac89f6/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Ranma1/2",
+      "status": "Full 12 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/ranma12-phan-2-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20251005/14068_ab394288/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20251012/14754_cb0d6d34/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20251019/15390_33169e6c/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20251026/16150_63ab39b1/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20251102/16670_5b18e1a3/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20251109/17196_b40a13d4/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20251116/17805_a16741d0/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20251123/18321_bd226797/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20251130/18828_3930fd50/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20251207/19479_84d2f3b4/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream-short.com/20251214/57702_c2d2d183/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20251221/20716_4b3909f0/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "YAIBA: Huyền Thoại Samurai",
+      "status": "Full 24 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/yaiba-huyen-thoai-samurai-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20250414/4275_eaa1da31/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20250414/4276_9fe4e15b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20250430/4923_4fb8a7a2/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20250430/4924_427e3427/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20250517/5910_79385312/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20250517/5911_84a955d5/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20250517/5912_eddeb82d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20250605/6918_009c434c/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20250605/6919_b670dfc5/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20250608/7109_51311013/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20250703/8144_edf0320a/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20250703/8145_0c0cfd94/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 13",
+          "url": "https://vip.opstream90.com/20250703/8146_202ed379/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 14",
+          "url": "https://vip.opstream90.com/20250726/9500_29405e2a/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 15",
+          "url": "https://vip.opstream90.com/20250726/9501_b950ea26/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 16",
+          "url": "https://vip.opstream90.com/20250810/10356_c7c3e78e/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 17",
+          "url": "https://vip.opstream90.com/20250810/10357_f52166cd/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 18",
+          "url": "https://vip.opstream90.com/20250810/10358_44e55ed9/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 19",
+          "url": "https://vip.opstream90.com/20250918/12615_2e3e809d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 20",
+          "url": "https://vip.opstream90.com/20250918/12616_d19ac2e6/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 21",
+          "url": "https://vip.opstream90.com/20250918/12617_7e62803d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 22",
+          "url": "https://vip.opstream90.com/20250918/12618_9dc1fd73/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 23",
+          "url": "https://vip.opstream90.com/20251004/13959_df5665df/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 24",
+          "url": "https://vip.opstream90.com/20251004/13960_570f6ff5/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Có thể tôi chỉ là một lễ tân hội, nhưng tôi sẽ một mình đánh bại bất kỳ Boss nào để tan làm đúng giờ",
+      "status": "Full 12 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/co-the-toi-chi-la-mot-le-tan-hoi-nhung-toi-se-mot-minh-danh-bai-bat-ky-boss-nao-de-tan-lam-dung-gio-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream15.com/20250112/47469_be547580/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream15.com/20250205/48851_101b3e88/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream15.com/20250205/48852_52e0b0a8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream15.com/20250205/48853_a592c251/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream15.com/20250222/49586_43710cf8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream15.com/20250222/49587_6a832812/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream15.com/20250222/49588_9b01c6d8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream15.com/20250306/50320_4d22d720/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20250415/4312_27d8d40b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20250415/4313_7716d0fc/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20250415/4314_2bf7e9e8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20250415/4315_8526e096/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Ẩm thực dã ngoại tại dị giới với kỹ năng không tưởng",
+      "status": "Full 12 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/am-thuc-da-ngoai-tai-di-gioi-voi-ky-nang-khong-tuong-phan-2-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20251007/14438_f78a3fbf/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20251015/15086_882137f3/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20251022/15738_b41fa11b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20251029/16375_95175b10/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20251105/16837_052efaa1/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20251112/17383_6dce2d06/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20251119/18017_a561e7eb/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20251125/18486_cdc1ce4c/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20251202/19088_cd1c5d5d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20251209/19668_97c62a53/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20251216/20291_93ec3bcc/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20251224/20849_d3036eaa/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Biệt Đội Cảm Tử Tại Dị Giới",
+      "status": "Full 10 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/suicide-squad-isekai-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream17.com/20240629/13955_3e466819/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream17.com/20240629/13956_d4ad25fe/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream17.com/20240629/13957_e88f7355/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream17.com/20240704/14208_c33139f5/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream17.com/20240712/14855_7bdfd956/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream17.com/20240725/15648_5c554e20/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream17.com/20240725/15649_38178b9c/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream17.com/20240801/16002_f7104455/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream11.com/20240902/52350_73ba3f47/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream11.com/20240902/52351_c86d9cab/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Ultraman",
+      "status": "Full 12 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/ultraman-phan-3-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream11.com/20230511/43393_43d5edce/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream11.com/20230511/43394_076e9e08/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream11.com/20230511/43395_90ba2688/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream11.com/20230511/43396_131df41d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream11.com/20230511/43397_87103fc4/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream11.com/20230511/43398_66df415c/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream11.com/20230511/43399_6f4f045f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream11.com/20230511/43400_2c4af319/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream11.com/20230511/43401_e785ed4e/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream11.com/20230511/43402_2fb910f8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream11.com/20230511/43403_0f8e3252/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream11.com/20230511/43404_5021deac/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Frieren: Pháp Sư Tiễn Táng",
+      "status": "Full 2 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/frieren-phap-su-tien-tang-phan-2-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20260118/22695_c54ee454/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20260123/22988_18464425/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Ma ma ma ma cà rồng",
+      "status": "Full 12 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/ma-ma-ma-ma-ca-rong-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream15.com/20250112/47520_3b16ba31/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream15.com/20250211/49184_5290f86d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream15.com/20250211/49185_622afa4a/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream15.com/20250211/49186_d52999d6/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream15.com/20250211/49187_4df8eccd/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20250414/4277_18a010d2/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20250414/4278_97e48472/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20250414/4279_120ca817/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20250414/4280_55603a5f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20250414/4281_a732804c/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20250414/4282_f60ce002/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20250414/4283_3e1953b5/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Vương Miện Của Người Thống Trị",
+      "status": "Full 13 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/9-nine-rulers-crown-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20250715/8798_6a0724f1/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20250715/8799_e6051b3b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20250715/8800_7ac52e3f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20250719/9052_1fa6269f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20250726/9534_93d90336/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20250802/9987_d4fcc05b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20250809/10324_1bda7493/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20250816/10662_01b7575c/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20250830/11452_211fff9e/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20250906/11912_fbf6c914/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20250913/12289_ff3f6b76/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20250921/12753_a8961440/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 13",
+          "url": "https://vip.opstream13.com/20251003/10379_c1ba099b/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "B: Sự khởi đầu",
       "status": "Full 6 Tập",
-      "thumb_url": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-3-thumb.jpg",
+      "thumb_url": "https://img.ophim.live/uploads/movies/b-su-khoi-dau-phan-2-thumb.jpg",
       "episodes": [
         {
           "text": "Tập 1",
-          "url": "https://vip.opstream90.com/20260408/28974_d9a11bb2/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream16.com/20220323/3417_8381c2e4/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 2",
-          "url": "https://vip.opstream90.com/20260418/29679_f7fd20e8/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream16.com/20220323/3418_6b4830b5/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 3",
-          "url": "https://vip.opstream90.com/20260418/29680_0caa694f/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream16.com/20220323/3419_886b83b5/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 4",
-          "url": "https://vip.opstream90.com/20260502/30752_1bbb81c5/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream16.com/20220323/3420_3a405e8d/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 5",
-          "url": "https://vip.opstream90.com/20260509/31428_0d87a1c0/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream16.com/20220323/3421_6243e8c6/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 6",
-          "url": "https://vip.opstream90.com/20260516/31901_ea2486be/3000k/hls/mixed.m3u8"
+          "url": "https://vip.opstream16.com/20220323/3422_3b348d2c/3000k/hls/mixed.m3u8"
         }
       ]
     },
     {
-      "title": "Thiên Sứ nhà bên",
-      "status": "Full 7 Tập",
-      "thumb_url": "https://img.ophim.live/uploads/movies/the-angel-next-door-spoils-me-rotten-thumb.jpg",
+      "title": "Thành Phố Kamitsubaki Đang Được Xây Dựng",
+      "status": "Full 13 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/thanh-pho-kamitsubaki-dang-duoc-xay-dung-thumb.jpg",
       "episodes": [
         {
           "text": "Tập 1",
-          "url": "https://s6.kkphimplayer6.com/20260404/lVfinLzu/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250705/8279_01ce8496/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 2",
-          "url": "https://s6.kkphimplayer6.com/20260412/zkr9zE6W/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250711/8561_7d92c088/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 3",
-          "url": "https://v7.kkphimplayer7.com/20260418/RcX3hCcw/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250718/8925_ac597b7e/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 4",
-          "url": "https://v7.kkphimplayer7.com/20260425/BBDCe7Yo/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250725/9430_d83df0d5/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 5",
-          "url": "https://v7.kkphimplayer7.com/20260502/VxyJlmHb/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250801/9906_c5383525/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 6",
-          "url": "https://v7.kkphimplayer7.com/20260509/QNF7hcWC/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250808/10233_edf959e1/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 7",
-          "url": "https://v7.kkphimplayer7.com/20260515/hUHJFd7d/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250815/10557_7c8aa9ae/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20250822/10998_f571b230/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20250830/11425_b651cae8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20250905/11841_daed2103/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20250913/12241_1b0251cc/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20250919/12656_8e86a13d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 13",
+          "url": "https://vip.opstream13.com/20251003/10370_ecb565cd/3000k/hls/mixed.m3u8"
         }
       ]
     },
     {
-      "title": "Monster Eater",
-      "status": "Full 7 Tập",
-      "thumb_url": "https://cdn.rophim.co.com/storage/images/9459c291889ef9b32674f9e7afa4696d.webp",
+      "title": "Mưa Tháng Tư Mang Tới Hoa Tháng Năm",
+      "status": "Full 13 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/mua-thang-tu-mang-toi-hoa-thang-nam-thumb.jpg",
       "episodes": [
         {
           "text": "Tập 1",
-          "url": "https://s6.kkphimplayer6.com/20260404/PnzDb5As/3500kb/hls/index.m3u8"
-        },
-        {
-          "text": "Tập 2",
-          "url": "https://s6.kkphimplayer6.com/20260411/cAT9jp0t/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250705/8278_0a3b5a7a/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 3",
-          "url": "https://v7.kkphimplayer7.com/20260418/HHjMVAuM/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250719/8991_2aac0e27/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20250725/9470_47a3893c/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 4",
-          "url": "https://v7.kkphimplayer7.com/20260424/qpHzswD7/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250726/9471_3142c42c/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 5",
-          "url": "https://v7.kkphimplayer7.com/20260501/DERM4Irk/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250801/9951_fb6c8477/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 6",
-          "url": "https://v7.kkphimplayer7.com/20260508/7tlBBWjY/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250808/10284_f17a3384/3000k/hls/mixed.m3u8"
         },
         {
           "text": "Tập 7",
-          "url": "https://v7.kkphimplayer7.com/20260515/F98sWw9A/3500kb/hls/index.m3u8"
+          "url": "https://vip.opstream90.com/20250815/10568_0fe50089/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20250822/11033_ea9f6bbe/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20250830/11410_1fa734ca/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20250905/11875_a63105dd/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20250913/12243_27609bf6/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20250919/12715_47ba327b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 13",
+          "url": "https://vip.opstream13.com/20251003/10368_8c2d7d27/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Khải Huyền Dị Giới Mynoghra: Chinh Phục Thế Giới Từ Nền Văn Minh Suy Tàn",
+      "status": "Full 13 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/khai-huyen-di-gioi-mynoghra-chinh-phuc-the-gioi-tu-nen-van-minh-suy-tan-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20250707/8349_e85cc63b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20250714/8710_ed582716/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20250721/9079_ca5150ff/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20250727/9637_5ba91a75/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20250803/10042_425f116b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20250810/10377_294e09f2/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20250817/10750_94e0f06f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20250825/11168_0ae7b3a9/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream90.com/20250831/11519_22f791da/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream90.com/20250907/11954_2f27b698/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream90.com/20250914/12338_d87ee98a/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream90.com/20250922/12773_f73850aa/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 13",
+          "url": "https://vip.opstream13.com/20251003/10367_c0faf875/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Classic Stars: Những Ngôi Sao Nhạc Cổ Điển",
+      "status": "Full 13 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/classic-stars-nhung-ngoi-sao-nhac-co-dien-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream13.com/20251003/10354_3ff4cea1/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream13.com/20251003/10355_a97f6e2f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream13.com/20251003/10356_c7c3e78e/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream13.com/20251003/10357_f52166cd/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream13.com/20251003/10358_44e55ed9/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream13.com/20251003/10359_6e334169/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream13.com/20251003/10360_6a26c75d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream13.com/20251003/10361_015389e7/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 9",
+          "url": "https://vip.opstream13.com/20251003/10362_c8b9abff/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream13.com/20251003/10363_a1dc51ee/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream13.com/20251003/10364_919fbb66/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream13.com/20251003/10365_9a5b67bf/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 13",
+          "url": "https://vip.opstream13.com/20251003/10366_ef3e86e4/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Chú Thuật Hồi Chiến",
+      "status": "Full 1 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/chu-thuat-hoi-chien-phan-3-thumb.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://phimus.s3.us-east-005.backblazeb2.com/m3u8/4lufRzSV/1/3/1-master.m3u8"
         }
       ]
     }
