@@ -1,3 +1,471 @@
 {
-  "movies": []
+  "movies": [
+    {
+      "title": "KILL BLUE",
+      "status": "Full 6 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/kill-blue-thumb.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20260412/29284_cd3c3a90/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20260423/30023_c121944d/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20260427/30339_8135d1bf/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20260503/30794_02c67469/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20260510/31477_9dfe9454/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20260517/32142_17250557/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Chuyện Kể Của Akane",
+      "status": "Full 7 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/4a85124c6909360ca8f62b21c7ff86b2.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20260408/28973_e6ceb6cd/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20260412/29282_81947586/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20260419/29724_0ed3f657/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20260505/30998_ef6454c4/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20260505/30999_a1950012/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20260510/31476_78147341/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20260517/32148_c5fb163f/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Đại Hiền Giả Riddle Hồi Quy Báo Thù (Daikenja Riddle no Jikan Gyakkou)",
+      "status": "Full 7 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/8afa96862e0268ea258b4a802d0e8d99.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://s6.kkphimplayer6.com/20260407/kvBS5MGB/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://s6.kkphimplayer6.com/20260412/H5Ua5GgU/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://v7.kkphimplayer7.com/20260419/2LujqyHk/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://v7.kkphimplayer7.com/20260426/CCP6tIjF/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://v7.kkphimplayer7.com/20260503/cCqFVmoH/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://v7.kkphimplayer7.com/20260516/jBe4a2yp/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://v7.kkphimplayer7.com/20260516/1ZNyrEx3/3500kb/hls/index.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Sứ Giả Bốn Mùa - Vũ Điệu Mùa Xuân",
+      "status": "Full 8 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/su-gia-bon-mua-vu-dieu-mua-xuan-thumb.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20260401/28385_900e9a6c/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20260405/28840_fe5e746f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20260412/29292_dbc6904b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20260419/29727_f7fb4371/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20260426/30253_7e909d0e/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20260503/30796_42ca5f08/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20260510/31481_5a897c4a/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 8",
+          "url": "https://vip.opstream90.com/20260517/31994_2755ed63/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Lại Bị Giết Nữa À, Thưa Thám Tử? (Mata Korosarete Shimatta no desu ne, Tantei-sama)",
+      "status": "Full 7 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/4f566d4b42cdc2b6c4258def0d878a99.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://s6.kkphimplayer6.com/20260407/jstwf1FT/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://s6.kkphimplayer6.com/20260411/ZdEvCOaI/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://v7.kkphimplayer7.com/20260418/5denJgKl/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://v7.kkphimplayer7.com/20260503/jUqV1kXk/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://v7.kkphimplayer7.com/20260517/Yuwx0ZVC/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://v7.kkphimplayer7.com/20260517/ht78JKpW/index.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://v7.kkphimplayer7.com/20260517/zCsawkEY/3500kb/hls/index.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Sát Thủ Đi Học",
+      "status": "Full 6 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/d227b15e62f370befc4cece6b751caa2.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://s6.kkphimplayer6.com/20260412/OLco34FW/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://v7.kkphimplayer7.com/20260419/psSwNUxf/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://v7.kkphimplayer7.com/20260426/WAxKYesG/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://v7.kkphimplayer7.com/20260503/S6r8jiDd/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://v7.kkphimplayer7.com/20260509/CDv3lZPJ/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://v7.kkphimplayer7.com/20260516/dc9jY4uZ/3500kb/hls/index.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Song Mệnh Cõi Hoàng Tuyền",
+      "status": "Full 7 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/song-menh-coi-hoang-tuyen-thumb.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20260405/28841_92b5e9da/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20260412/29283_eb39b5b5/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20260419/29726_5e9f086b/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20260426/30252_75181a27/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20260503/30795_80f2ef94/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20260510/31478_dee75395/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20260517/31993_f6bb3604/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Trái Đất Đóng Băng",
+      "status": "Full 7 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/trai-dat-dong-bang-thumb.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20260408/28976_cd65710f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20260411/29241_1365edf8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20260418/29688_967d1576/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20260426/30269_03de7a07/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20260502/30753_ac0d7b02/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20260509/31429_2cb003b4/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://vip.opstream90.com/20260516/31902_24c301e0/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Trạch Thiên Ký",
+      "status": "Full 12 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/trach-thien-ky-phan-4-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 01",
+          "url": "https://vip.opstream11.com/20220606/28609_b2682ba0/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 02",
+          "url": "https://vip.opstream11.com/20220606/28610_804286d9/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 03",
+          "url": "https://vip.opstream11.com/20220606/28611_3e870c2e/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 04",
+          "url": "https://vip.opstream11.com/20220606/28612_87d84e13/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 05",
+          "url": "https://vip.opstream11.com/20220606/28613_e4a33cce/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 06",
+          "url": "https://vip.opstream11.com/20220606/28614_238a139a/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 07",
+          "url": "https://vip.opstream11.com/20220606/28615_acea0f13/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 08",
+          "url": "https://vip.opstream11.com/20220606/28616_496cb47c/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 09",
+          "url": "https://vip.opstream11.com/20220606/28617_6d663d85/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 10",
+          "url": "https://vip.opstream11.com/20220606/28618_c80369ea/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 11",
+          "url": "https://vip.opstream11.com/20220606/28619_753889c7/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 12",
+          "url": "https://vip.opstream11.com/20220606/28620_a051d61c/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Snowball Earth: Trái Đất Đóng Băng",
+      "status": "Full 7 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/1d64a782edacee880b7ca8255d2b02dd.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://s6.kkphimplayer6.com/20260407/NQ7VU4w1/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://s6.kkphimplayer6.com/20260411/nlj6xVuM/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://v7.kkphimplayer7.com/20260425/DH63K9mL/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://v7.kkphimplayer7.com/20260425/7E512jjO/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://v7.kkphimplayer7.com/20260502/HxvUWV6t/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://v7.kkphimplayer7.com/20260509/QNh93pJG/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://v7.kkphimplayer7.com/20260515/mqQ8Q4Mx/3500kb/hls/index.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Lúc đó, tôi đã chuyển sinh thành slime",
+      "status": "Full 6 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-3-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://vip.opstream90.com/20260408/28974_d9a11bb2/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://vip.opstream90.com/20260418/29679_f7fd20e8/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://vip.opstream90.com/20260418/29680_0caa694f/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://vip.opstream90.com/20260502/30752_1bbb81c5/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://vip.opstream90.com/20260509/31428_0d87a1c0/3000k/hls/mixed.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://vip.opstream90.com/20260516/31901_ea2486be/3000k/hls/mixed.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Thiên Sứ nhà bên",
+      "status": "Full 7 Tập",
+      "thumb_url": "https://img.ophim.live/uploads/movies/the-angel-next-door-spoils-me-rotten-thumb.jpg",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://s6.kkphimplayer6.com/20260404/lVfinLzu/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://s6.kkphimplayer6.com/20260412/zkr9zE6W/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://v7.kkphimplayer7.com/20260418/RcX3hCcw/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://v7.kkphimplayer7.com/20260425/BBDCe7Yo/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://v7.kkphimplayer7.com/20260502/VxyJlmHb/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://v7.kkphimplayer7.com/20260509/QNF7hcWC/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://v7.kkphimplayer7.com/20260515/hUHJFd7d/3500kb/hls/index.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Monster Eater",
+      "status": "Full 7 Tập",
+      "thumb_url": "https://cdn.rophim.co.com/storage/images/9459c291889ef9b32674f9e7afa4696d.webp",
+      "episodes": [
+        {
+          "text": "Tập 1",
+          "url": "https://s6.kkphimplayer6.com/20260404/PnzDb5As/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 2",
+          "url": "https://s6.kkphimplayer6.com/20260411/cAT9jp0t/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 3",
+          "url": "https://v7.kkphimplayer7.com/20260418/HHjMVAuM/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 4",
+          "url": "https://v7.kkphimplayer7.com/20260424/qpHzswD7/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 5",
+          "url": "https://v7.kkphimplayer7.com/20260501/DERM4Irk/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 6",
+          "url": "https://v7.kkphimplayer7.com/20260508/7tlBBWjY/3500kb/hls/index.m3u8"
+        },
+        {
+          "text": "Tập 7",
+          "url": "https://v7.kkphimplayer7.com/20260515/F98sWw9A/3500kb/hls/index.m3u8"
+        }
+      ]
+    }
+  ]
 }
