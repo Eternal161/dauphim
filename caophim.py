@@ -17,7 +17,7 @@ LIMIT_MOVIES  = 20
 
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
-REPO_NAME    = os.getenv("GH_REPO", "Eternal161/dauhoiquan") 
+REPO_NAME = os.getenv("GH_REPO", "Eternal161/dauphim") 
 
 _HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
