@@ -13,7 +13,7 @@ from playwright_stealth import Stealth
 # =========================================================
 TARGET_SITE   = "https://rophim10.co.com/the-loai/hoat-hinh"
 FILE_PATH     = "phim.json"
-LIMIT_MOVIES  = 2
+LIMIT_MOVIES  = 20
 
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
