@@ -1,112 +1,1073 @@
 {
     "movies": [
         {
-            "title": "Đấu Phá Thương Khung - Phần 1",
-            "thumb_url": "https://hoathinh3d.co/wp-content/uploads/2021/03/dau-pha-thuong-khung-phan-1-300x450.jpeg",
-            "status": "Phần 1",
+            "title": "Đấu La Đại Lục",
+            "thumb_url": "https://hh3d.cx/wp-content/uploads/2025/09/dau-la-dai-luc-200x300.jpg",
+            "status": "Full 266 Tập",
             "episodes": [
                 {
+                    "text": "Tập 266",
+                    "url": "https://s3.phim1280.tv/20240822/p4Qkj0v9/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 265",
+                    "url": "https://s3.phim1280.tv/20240822/LuyOwxCY/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 264",
+                    "url": "https://s3.phim1280.tv/20240822/cmu8B1EB/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 263",
+                    "url": "https://s3.phim1280.tv/20240822/oZcuo0Kg/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 262",
+                    "url": "https://s3.phim1280.tv/20240822/avSyRLl2/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 261",
+                    "url": "https://s3.phim1280.tv/20240822/bNiuHndY/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 260",
+                    "url": "https://s3.phim1280.tv/20240822/gDhrggNx/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 259",
+                    "url": "https://s3.phim1280.tv/20240822/rmogN4dO/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 258",
+                    "url": "https://s3.phim1280.tv/20240822/yzWS30Cx/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 257",
+                    "url": "https://s3.phim1280.tv/20240822/mYOUYUxI/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 256",
+                    "url": "https://s3.phim1280.tv/20240822/0ztsEa82/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 255",
+                    "url": "https://s3.phim1280.tv/20240822/YqU9HrSl/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 254",
+                    "url": "https://s3.phim1280.tv/20240822/s2vPNOpY/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 253",
+                    "url": "https://s3.phim1280.tv/20240822/ioEbEFlB/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 252",
+                    "url": "https://s3.phim1280.tv/20240822/2cEKZeQ3/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 251",
+                    "url": "https://s3.phim1280.tv/20240822/6aOrPxPw/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 250",
+                    "url": "https://s3.phim1280.tv/20240822/MicvXEZC/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 249",
+                    "url": "https://s3.phim1280.tv/20240822/lanhGQmJ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 248",
+                    "url": "https://s3.phim1280.tv/20240822/jcLfnByu/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 247",
+                    "url": "https://s3.phim1280.tv/20240822/EPARKItL/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 246",
+                    "url": "https://s3.phim1280.tv/20240822/fjRu1oAW/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 245",
+                    "url": "https://s3.phim1280.tv/20240822/rWY1pdLy/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 244",
+                    "url": "https://s3.phim1280.tv/20240822/hCN1OHq9/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 243",
+                    "url": "https://s3.phim1280.tv/20240822/zPnTQPh7/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 242",
+                    "url": "https://s3.phim1280.tv/20240822/zR8XQvb3/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 241",
+                    "url": "https://s3.phim1280.tv/20240822/GwPuVVcb/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 240",
+                    "url": "https://s3.phim1280.tv/20240822/vQZNIvd0/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 239",
+                    "url": "https://s3.phim1280.tv/20240822/WdeQK38W/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 238",
+                    "url": "https://s3.phim1280.tv/20240822/P2rFT6ml/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 237",
+                    "url": "https://s3.phim1280.tv/20240822/TOPkfUqe/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 236",
+                    "url": "https://s3.phim1280.tv/20240822/m57D3mqO/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 235",
+                    "url": "https://s3.phim1280.tv/20240822/ri9WvCYl/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 234",
+                    "url": "https://s3.phim1280.tv/20240822/mKlaFWOs/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 233",
+                    "url": "https://s3.phim1280.tv/20240822/bCzuD1bM/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 232",
+                    "url": "https://s3.phim1280.tv/20240822/Jsi3vwxP/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 231",
+                    "url": "https://s3.phim1280.tv/20240822/PmBwMsne/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 230",
+                    "url": "https://s3.phim1280.tv/20240822/wgXHVpRf/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 229",
+                    "url": "https://s3.phim1280.tv/20240822/zmUPUeTR/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 228",
+                    "url": "https://s3.phim1280.tv/20240822/36lYOSgH/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 227",
+                    "url": "https://s3.phim1280.tv/20240822/wAMhKdkX/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 226",
+                    "url": "https://s3.phim1280.tv/20240822/Csha5QfA/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 225",
+                    "url": "https://s3.phim1280.tv/20240822/yp7j1Tz1/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 224",
+                    "url": "https://s3.phim1280.tv/20240822/DCZc5BMz/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 223",
+                    "url": "https://s3.phim1280.tv/20240822/3aPdWwn1/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 222",
+                    "url": "https://s3.phim1280.tv/20240822/RmGLcalY/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 221",
+                    "url": "https://s3.phim1280.tv/20240822/fFyRh4Ku/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 220",
+                    "url": "https://s3.phim1280.tv/20240822/WPdofeI1/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 219",
+                    "url": "https://s3.phim1280.tv/20240822/ccG9ZZsp/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 218",
+                    "url": "https://s3.phim1280.tv/20240822/n4q2Lnf3/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 217",
+                    "url": "https://s3.phim1280.tv/20240822/QWvTR57Y/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 216",
+                    "url": "https://s3.phim1280.tv/20240822/eiA488mx/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 215",
+                    "url": "https://s3.phim1280.tv/20240822/5YfzqKhX/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 214",
+                    "url": "https://s3.phim1280.tv/20240822/wQZrvxHI/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 213",
+                    "url": "https://s3.phim1280.tv/20240822/IsoLm0BN/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 212",
+                    "url": "https://s3.phim1280.tv/20240822/IeLmjOsQ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 211",
+                    "url": "https://s3.phim1280.tv/20240822/u6tcb19E/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 210",
+                    "url": "https://s3.phim1280.tv/20240822/tpWMCAou/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 209",
+                    "url": "https://s3.phim1280.tv/20240822/0GFYf9CC/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 208",
+                    "url": "https://s3.phim1280.tv/20240822/RGQFJVkP/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 207",
+                    "url": "https://s3.phim1280.tv/20240822/uVIBZ6MB/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 206",
+                    "url": "https://s3.phim1280.tv/20240822/r8bvr9p1/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 205",
+                    "url": "https://s3.phim1280.tv/20240822/YRtJQA4E/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 204",
+                    "url": "https://s3.phim1280.tv/20240822/7r6ANCTA/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 203",
+                    "url": "https://s3.phim1280.tv/20240822/4QZZfgH0/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 202",
+                    "url": "https://s3.phim1280.tv/20240822/d4CubIp4/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 201",
+                    "url": "https://s3.phim1280.tv/20240822/cFZtN2Tq/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 200",
+                    "url": "https://s3.phim1280.tv/20240822/SEvzPHpY/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 199",
+                    "url": "https://s3.phim1280.tv/20240822/0QBdsntf/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 198",
+                    "url": "https://s3.phim1280.tv/20240822/ASQgF2Z4/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 197",
+                    "url": "https://s3.phim1280.tv/20240822/Hr1vdaZA/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 196",
+                    "url": "https://s3.phim1280.tv/20240822/UikddQU4/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 195",
+                    "url": "https://s3.phim1280.tv/20240822/MWFxImKa/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 194",
+                    "url": "https://s3.phim1280.tv/20240822/mtDl0aoe/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 193",
+                    "url": "https://s3.phim1280.tv/20240822/uxN8FJRL/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 192",
+                    "url": "https://s3.phim1280.tv/20240822/PDYuPAKR/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 191",
+                    "url": "https://s3.phim1280.tv/20240822/KR9gigj1/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 190",
+                    "url": "https://s3.phim1280.tv/20240822/TyGO707o/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 189",
+                    "url": "https://s3.phim1280.tv/20240822/A0TkI8OF/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 188",
+                    "url": "https://s3.phim1280.tv/20240822/HRxmbXjX/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 187",
+                    "url": "https://s3.phim1280.tv/20240822/Thspjmw6/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 186",
+                    "url": "https://s3.phim1280.tv/20240822/TyOhNBKz/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 185",
+                    "url": "https://s3.phim1280.tv/20240822/jeVduR7P/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 184",
+                    "url": "https://s3.phim1280.tv/20240822/98cJI8Eb/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 183",
+                    "url": "https://s3.phim1280.tv/20240822/iksaPP2j/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 182",
+                    "url": "https://s3.phim1280.tv/20240822/9Q3BHiIR/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 181",
+                    "url": "https://s3.phim1280.tv/20240822/YZmsmHkH/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 180",
+                    "url": "https://s3.phim1280.tv/20240822/cAWZQ8bE/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 179",
+                    "url": "https://s3.phim1280.tv/20240822/2Qo6dPoN/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 178",
+                    "url": "https://s3.phim1280.tv/20240822/fwyWHlDX/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 177",
+                    "url": "https://s3.phim1280.tv/20240822/0oWahhQZ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 176",
+                    "url": "https://s3.phim1280.tv/20240822/afzeJN4s/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 175",
+                    "url": "https://s3.phim1280.tv/20240822/8RWeCCPh/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 174",
+                    "url": "https://s3.phim1280.tv/20240822/Ch4vUSFv/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 173",
+                    "url": "https://s3.phim1280.tv/20240822/a4dqeOR2/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 172",
+                    "url": "https://s3.phim1280.tv/20240822/tk2foYc1/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 171",
+                    "url": "https://s3.phim1280.tv/20240822/IDnfbEqq/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 170",
+                    "url": "https://s3.phim1280.tv/20240822/stY7g3Hy/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 169",
+                    "url": "https://s3.phim1280.tv/20240822/DRV63Cnt/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 168",
+                    "url": "https://s3.phim1280.tv/20240822/DrXDjAwz/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 167",
+                    "url": "https://s3.phim1280.tv/20240822/MABfKw7j/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 166",
+                    "url": "https://s3.phim1280.tv/20240822/joNwtOpa/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 165",
+                    "url": "https://s3.phim1280.tv/20240822/8WFoqdXS/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 164",
+                    "url": "https://s3.phim1280.tv/20240822/BfnHdmyc/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 163",
+                    "url": "https://s3.phim1280.tv/20240822/bqdmjx2b/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 162",
+                    "url": "https://s3.phim1280.tv/20240822/wyL7aQPI/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 161",
+                    "url": "https://s3.phim1280.tv/20240822/hzg4MNv0/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 160",
+                    "url": "https://s3.phim1280.tv/20240822/2r5ZZpLv/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 159",
+                    "url": "https://s3.phim1280.tv/20240822/u15lVKgu/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 158",
+                    "url": "https://s3.phim1280.tv/20240822/HD03OlF7/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 157",
+                    "url": "https://s3.phim1280.tv/20240822/rBsDLF0q/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 156",
+                    "url": "https://s3.phim1280.tv/20240822/I6XVUl4Y/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 155",
+                    "url": "https://s3.phim1280.tv/20240822/0SracOtd/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 154",
+                    "url": "https://s3.phim1280.tv/20240822/hfZimMom/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 153",
+                    "url": "https://s3.phim1280.tv/20240822/3xG0F66a/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 152",
+                    "url": "https://s3.phim1280.tv/20240822/MhQtME7M/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 151",
+                    "url": "https://s3.phim1280.tv/20240822/WpKl1HMF/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 150",
+                    "url": "https://s3.phim1280.tv/20240822/xlj8ShDI/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 149",
+                    "url": "https://s3.phim1280.tv/20240822/Hmc7nc97/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 148",
+                    "url": "https://s3.phim1280.tv/20240822/S6hglwCu/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 147",
+                    "url": "https://s3.phim1280.tv/20240822/vy0PCEQj/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 146",
+                    "url": "https://s3.phim1280.tv/20240822/ntYFirQZ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 145",
+                    "url": "https://s3.phim1280.tv/20240822/UYfiaUqj/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 144",
+                    "url": "https://s3.phim1280.tv/20240822/UhfewtVp/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 143",
+                    "url": "https://s3.phim1280.tv/20240822/4N6fKzSn/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 142",
+                    "url": "https://s3.phim1280.tv/20240822/6afL7pq2/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 141",
+                    "url": "https://s3.phim1280.tv/20240822/n7UOB5Cv/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 140",
+                    "url": "https://s3.phim1280.tv/20240822/e5ktyE8W/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 139",
+                    "url": "https://s3.phim1280.tv/20240822/xMlz77YG/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 138",
+                    "url": "https://s3.phim1280.tv/20240822/nERDt8RW/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 137",
+                    "url": "https://s3.phim1280.tv/20240822/cvmWYzHJ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 136",
+                    "url": "https://s3.phim1280.tv/20240822/PfdOB1Ad/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 135",
+                    "url": "https://s3.phim1280.tv/20240822/5gGaOElN/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 134",
+                    "url": "https://s3.phim1280.tv/20240822/gxT7Yrj1/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 133",
+                    "url": "https://s3.phim1280.tv/20240822/yoBMoLW9/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 132",
+                    "url": "https://s3.phim1280.tv/20240822/osfPe8BY/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 131",
+                    "url": "https://s3.phim1280.tv/20240822/olpGlonT/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 130",
+                    "url": "https://s3.phim1280.tv/20240822/7jJctbgY/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 129",
+                    "url": "https://s3.phim1280.tv/20240822/oJAbs7H0/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 128",
+                    "url": "https://s3.phim1280.tv/20240822/2kxw60dh/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 127",
+                    "url": "https://s3.phim1280.tv/20240822/NKRzqPmj/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 126",
+                    "url": "https://s3.phim1280.tv/20240822/3XoGtONr/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 125",
+                    "url": "https://s3.phim1280.tv/20240822/K5lq1hXM/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 124",
+                    "url": "https://s3.phim1280.tv/20240822/LqYQKqac/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 123",
+                    "url": "https://s3.phim1280.tv/20240822/LlWm66HX/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 122",
+                    "url": "https://s3.phim1280.tv/20240822/Q54B6daJ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 121",
+                    "url": "https://s3.phim1280.tv/20240822/WWHdx4Qg/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 120",
+                    "url": "https://s3.phim1280.tv/20240822/gn1304Dx/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 119",
+                    "url": "https://s3.phim1280.tv/20240822/Cs5EanKB/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 118",
+                    "url": "https://s3.phim1280.tv/20240822/GrgANWdo/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 117",
+                    "url": "https://s3.phim1280.tv/20240822/M3NdaYTV/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 116",
+                    "url": "https://s3.phim1280.tv/20240822/H4DFPpwg/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 115",
+                    "url": "https://s3.phim1280.tv/20240822/edXbZMPC/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 114",
+                    "url": "https://s3.phim1280.tv/20240822/9uLGFSN2/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 113",
+                    "url": "https://s3.phim1280.tv/20240822/BjUDqUuJ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 112",
+                    "url": "https://s3.phim1280.tv/20240822/4Jb0DQov/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 111",
+                    "url": "https://s3.phim1280.tv/20240822/8oSlbJz1/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 110",
+                    "url": "https://s3.phim1280.tv/20240822/o6Cj2uWk/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 109",
+                    "url": "https://s3.phim1280.tv/20240822/IljsskCv/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 108",
+                    "url": "https://s3.phim1280.tv/20240822/h3FOFxQJ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 107",
+                    "url": "https://s3.phim1280.tv/20240822/PP0NoLCe/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 106",
+                    "url": "https://s3.phim1280.tv/20240822/AKB8gHoh/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 105",
+                    "url": "https://s3.phim1280.tv/20240822/ub2hLckl/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 104",
+                    "url": "https://s3.phim1280.tv/20240822/1V11Vlb4/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 103",
+                    "url": "https://s3.phim1280.tv/20240822/OcmqDCLY/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 102",
+                    "url": "https://s3.phim1280.tv/20240822/6jgutV9v/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 101",
+                    "url": "https://s3.phim1280.tv/20240822/00r1GTvN/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 100",
+                    "url": "https://s3.phim1280.tv/20240822/HmlYY3bV/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 99",
+                    "url": "https://s3.phim1280.tv/20240822/SX3iXARK/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 98",
+                    "url": "https://s3.phim1280.tv/20240822/tgXdYvmY/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 97",
+                    "url": "https://s3.phim1280.tv/20240822/6SRVdrql/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 96",
+                    "url": "https://s3.phim1280.tv/20240822/W6Tx4xwT/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 95",
+                    "url": "https://s3.phim1280.tv/20240822/mlZ7uL8W/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 94",
+                    "url": "https://s3.phim1280.tv/20240822/Q19dHoTc/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 93",
+                    "url": "https://s3.phim1280.tv/20240822/BKwaVbWe/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 92",
+                    "url": "https://s3.phim1280.tv/20240822/eJ3HjJIe/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 91",
+                    "url": "https://s3.phim1280.tv/20240822/4iaHJ5lA/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 90",
+                    "url": "https://s3.phim1280.tv/20240822/ZTL0XuHt/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 89",
+                    "url": "https://s3.phim1280.tv/20240822/Lgf6MpZN/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 88",
+                    "url": "https://s3.phim1280.tv/20240822/is2bkB4w/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 87",
+                    "url": "https://s3.phim1280.tv/20240822/InKgpdS5/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 86",
+                    "url": "https://s3.phim1280.tv/20240822/kiTgDli8/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 85",
+                    "url": "https://s3.phim1280.tv/20240822/WPBNCzIl/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 84",
+                    "url": "https://s3.phim1280.tv/20240822/QiOL72VI/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 83",
+                    "url": "https://s3.phim1280.tv/20240822/cnqvxGJG/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 82",
+                    "url": "https://s3.phim1280.tv/20240822/0OPyXbVJ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 81",
+                    "url": "https://s3.phim1280.tv/20240822/jrdr9NfT/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 80",
+                    "url": "https://s3.phim1280.tv/20240822/YUafEq5Z/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 79",
+                    "url": "https://s3.phim1280.tv/20240822/mB6W9PT6/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 78",
+                    "url": "https://s3.phim1280.tv/20240822/UnJkK8ba/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 77",
+                    "url": "https://s3.phim1280.tv/20240822/WYaPnzty/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 76",
+                    "url": "https://s3.phim1280.tv/20240822/dYSYFo62/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 75",
+                    "url": "https://s3.phim1280.tv/20240822/DfqdYn71/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 74",
+                    "url": "https://s3.phim1280.tv/20240822/lEPtoWbf/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 73",
+                    "url": "https://s3.phim1280.tv/20240822/7mEZ1IDK/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 72",
+                    "url": "https://s3.phim1280.tv/20240822/9Q6ZZ3uZ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 71",
+                    "url": "https://s3.phim1280.tv/20240822/zRTEjQTu/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 70",
+                    "url": "https://s3.phim1280.tv/20240822/rnYgHPmT/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 69",
+                    "url": "https://s3.phim1280.tv/20240822/6m2kunYz/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 68",
+                    "url": "https://s3.phim1280.tv/20240822/HAFDooL2/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 67",
+                    "url": "https://s3.phim1280.tv/20240822/eXK0ObTj/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 66",
+                    "url": "https://s3.phim1280.tv/20240822/Pp0uHM4f/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 65",
+                    "url": "https://s3.phim1280.tv/20240822/wKWTs914/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 64",
+                    "url": "https://s3.phim1280.tv/20240822/d9JbPopb/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 63",
+                    "url": "https://s3.phim1280.tv/20240822/JdeccWSc/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 62",
+                    "url": "https://s3.phim1280.tv/20240822/MCq8hp8Y/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 61",
+                    "url": "https://s3.phim1280.tv/20240822/8e80DDq0/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 60",
+                    "url": "https://s3.phim1280.tv/20240822/edI86J05/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 59",
+                    "url": "https://s3.phim1280.tv/20240822/gr0XTvH0/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 58",
+                    "url": "https://s3.phim1280.tv/20240822/CHozYA9O/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 57",
+                    "url": "https://s3.phim1280.tv/20240822/HvUEYrVL/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 56",
+                    "url": "https://s3.phim1280.tv/20240822/g8rd6F6H/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 55",
+                    "url": "https://s3.phim1280.tv/20240822/eSpw6tgU/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 54",
+                    "url": "https://s3.phim1280.tv/20240822/Fbikk3BU/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 53",
+                    "url": "https://s3.phim1280.tv/20240822/oiNZCTwC/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 52",
+                    "url": "https://s3.phim1280.tv/20240822/HJIAXdvB/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 51",
+                    "url": "https://s3.phim1280.tv/20240822/rODsNvOC/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 50",
+                    "url": "https://s3.phim1280.tv/20240822/6IEFliHJ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 49",
+                    "url": "https://s3.phim1280.tv/20240822/ovLy8UmN/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 48",
+                    "url": "https://s3.phim1280.tv/20240822/0plnNvWs/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 47",
+                    "url": "https://s3.phim1280.tv/20240822/5NlF9fnE/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 46",
+                    "url": "https://s3.phim1280.tv/20240822/N83JRVHO/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 45",
+                    "url": "https://s3.phim1280.tv/20240822/22MD7t2L/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 44",
+                    "url": "https://s3.phim1280.tv/20240822/haStH4ew/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 43",
+                    "url": "https://s3.phim1280.tv/20240822/sKUXMIAV/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 42",
+                    "url": "https://s3.phim1280.tv/20240822/lt3NhQ9G/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 41",
+                    "url": "https://s3.phim1280.tv/20240822/ZI5V1R2z/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 40",
+                    "url": "https://s3.phim1280.tv/20240822/SBQ2eDbt/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 39",
+                    "url": "https://s3.phim1280.tv/20240822/MoiytMsr/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 38",
+                    "url": "https://s3.phim1280.tv/20240822/xJMB8lBy/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 37",
+                    "url": "https://s3.phim1280.tv/20240822/Nc6bYm8Z/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 36",
+                    "url": "https://s3.phim1280.tv/20240822/b0eCiKQl/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 35",
+                    "url": "https://s3.phim1280.tv/20240822/Vbv1OGHq/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 34",
+                    "url": "https://s3.phim1280.tv/20240822/19NkQmMF/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 33",
+                    "url": "https://s3.phim1280.tv/20240822/fdo5nLc7/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 32",
+                    "url": "https://s3.phim1280.tv/20240822/eXl9Z47N/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 31",
+                    "url": "https://s3.phim1280.tv/20240822/PcJzVOpR/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 30",
+                    "url": "https://s3.phim1280.tv/20240822/WwtK6Fgg/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 29",
+                    "url": "https://s3.phim1280.tv/20240822/M5EPwjMe/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 28",
+                    "url": "https://s3.phim1280.tv/20240822/1c886d68/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 27",
+                    "url": "https://s3.phim1280.tv/20240822/u7jDbYUa/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 26",
+                    "url": "https://s3.phim1280.tv/20240822/HFeuIIdC/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 25",
+                    "url": "https://s3.phim1280.tv/20240822/JfzZOgYB/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 24",
+                    "url": "https://s3.phim1280.tv/20240822/BOv8kUPW/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 23",
+                    "url": "https://s3.phim1280.tv/20240822/FLDnI305/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 22",
+                    "url": "https://s3.phim1280.tv/20240822/6Jm2y0W8/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 21",
+                    "url": "https://s3.phim1280.tv/20240822/JucGE4CZ/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 20",
+                    "url": "https://s3.phim1280.tv/20240822/wNibOLtA/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 19",
+                    "url": "https://s3.phim1280.tv/20240822/aCcQAHYE/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 18",
+                    "url": "https://s3.phim1280.tv/20240822/gQk3RITH/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 17",
+                    "url": "https://s3.phim1280.tv/20240822/efdl0bAS/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 16",
+                    "url": "https://s3.phim1280.tv/20240822/lbB8mppG/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 15",
+                    "url": "https://s3.phim1280.tv/20240822/o8FI8l2J/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 14",
+                    "url": "https://s3.phim1280.tv/20240822/vn2qqxQ0/2000kb/hls/index.m3u8"
+                },
+                {
+                    "text": "Tập 13",
+                    "url": "https://s3.phim1280.tv/20240822/oPQsZZQZ/2000kb/hls/index.m3u8"
+                },
+                {
                     "text": "Tập 12",
-                    "url": "https://voqcdn.com/f2_SE3InNmyTj5gunElxdlEfi_745868/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/4obxNtB1/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 11",
-                    "url": "https://kruxcdn.com/f2_QGTShZRUNFjdQ7sHkHns7u_751633/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/IIdZAa46/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 10",
-                    "url": "https://zyxcdn.com/f2_eFKURn0hPLkbKzky1WNovi_748598/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/wzUySUtA/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 9",
-                    "url": "https://zyxcdn.com/f2_kt6j9xKPSFjdl80dZzkvpZ_734474/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/9XPqvS7r/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 8",
-                    "url": "https://kruxcdn.com/f2_0TQVCoeDjA8XjXZLo6lgmQ_734861/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/NDxaChwH/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 7",
-                    "url": "https://voqcdn.com/f2_lvG27iLaJ_uBNLPElHHraj_737818/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/8XA6hI9I/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 6",
-                    "url": "https://zyxcdn.com/f2_mgiHmQOxG2bVkB-Pe2Vfnd_737298/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/zEdd8Nsd/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 5",
-                    "url": "https://voqcdn.com/f2_Ix3-PzC2R-8eU9jAXmY1VV_737523/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240823/fsAozxOE/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 4",
-                    "url": "https://zyxcdn.com/f2_ZypmaEHtRX925D6hF5WoOG_739227/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/MiSmIJyV/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 3",
-                    "url": "https://kruxcdn.com/f2_P9E0YGLDJKYOn2lyT8MMi7_739337/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/uoAVzzse/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 2",
-                    "url": "https://kruxcdn.com/f2_DImOjjLqHjWZgH3h64RHyq_737637/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/3yKPmpzn/2000kb/hls/index.m3u8"
                 },
                 {
                     "text": "Tập 1",
-                    "url": "https://zyxcdn.com/f2_TRLfByOv9n6J0hBP3GsqtY_734062/master.m3u8"
-                }
-            ]
-        },
-        {
-            "title": "Đấu Phá Thương Khung - Phần 2",
-            "thumb_url": "https://hoathinh3d.co/wp-content/uploads/2021/03/dau-pha-thuong-khung-phan-1-300x450.jpeg",
-            "status": "Phần 2",
-            "episodes": [
-                {
-                    "text": "Tập 12",
-                    "url": "https://kruxcdn.com/f2_wl1W-y9dxjsfnqAqI1nzGJ_862468/master.m3u8"
-                },
-                {
-                    "text": "Tập 11",
-                    "url": "https://kruxcdn.com/f2_M0-LsOjv15AHi_0QvMNzSt_729139/master.m3u8"
-                },
-                {
-                    "text": "Tập 10",
-                    "url": "https://kruxcdn.com/f2_J7qrKeNNuXsJLxMaBQ4AUb_724413/master.m3u8"
-                },
-                {
-                    "text": "Tập 9",
-                    "url": "https://kruxcdn.com/f2_t-LFryafCSpWx-QcnfKShO_721894/master.m3u8"
-                },
-                {
-                    "text": "Tập 8",
-                    "url": "https://zyxcdn.com/f2_vor9_UtyhIKYEK4QFiF-bC_723007/master.m3u8"
-                },
-                {
-                    "text": "Tập 7",
-                    "url": "https://kruxcdn.com/f2_LPhINa6nSfX9HWoja641fS_721972/master.m3u8"
-                },
-                {
-                    "text": "Tập 6",
-                    "url": "https://zyxcdn.com/f2_uZeQdwJlwnL7fAd7CNwGT3_728953/master.m3u8"
-                },
-                {
-                    "text": "Tập 5",
-                    "url": "https://voqcdn.com/f2_jhEzZhxIHsA64TH2mxWZjm_727404/master.m3u8"
-                },
-                {
-                    "text": "Tập 4",
-                    "url": "https://kruxcdn.com/f2_7bKoBXYBJwEqR-uiaOCLRs_730224/master.m3u8"
-                },
-                {
-                    "text": "Tập 3",
-                    "url": "https://voqcdn.com/f2_6i5MYFAl7GGJrD33OJaX6A_722123/master.m3u8"
-                },
-                {
-                    "text": "Tập 2",
-                    "url": "https://zyxcdn.com/f2_b2vH4kPctw6oqcGWEANCWC_727588/master.m3u8"
-                },
-                {
-                    "text": "Tập 1",
-                    "url": "https://kruxcdn.com/f2_JKfJnLebAWWVSp5zSx8f6G_714161/master.m3u8"
+                    "url": "https://s3.phim1280.tv/20240822/nESpmx5m/2000kb/hls/index.m3u8"
                 }
             ]
         }
