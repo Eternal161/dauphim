@@ -13,7 +13,7 @@ SELECTOR_KHOI_TAP = ".halim-episode a"
 
 # === CẤU HÌNH GITHUB CỦA DẬU ===
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
-REPO_NAME = "Eternal161/dauphim"
+REPO_NAME = os.getenv("GH_REPO", "Eternal161/dauphim")
 FILE_PATH = "phim.json"
 
 def lay_m3u8(page, url_tap):
