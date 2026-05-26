@@ -1,4 +1,6 @@
 {
+    "movies": [
+{
     "title": "Đấu Phá Thương Khung",
     "thumb_url": "https://link-anh-bia-phim-dau-pha.jpg",
     "status": "Full 24 Tập",
@@ -99,5 +101,7 @@
             "text": "Tập 1",
             "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-1-sv1.html"
         }
+    ]
+}
     ]
 }
