@@ -1,107 +1,114 @@
 {
     "movies": [
-{
-    "title": "Đấu Phá Thương Khung",
-    "thumb_url": "https://link-anh-bia-phim-dau-pha.jpg",
-    "status": "Full 24 Tập",
-    "episodes": [
         {
-            "text": "Tập 12",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-12-sv1.html"
+            "title": "Đấu Phá Thương Khung - Phần 1",
+            "thumb_url": "https://hoathinh3d.co/wp-content/uploads/2021/03/dau-pha-thuong-khung-phan-1-300x450.jpeg",
+            "status": "Phần 1",
+            "episodes": [
+                {
+                    "text": "Tập 12",
+                    "url": "https://voqcdn.com/f2_SE3InNmyTj5gunElxdlEfi_745868/master.m3u8"
+                },
+                {
+                    "text": "Tập 11",
+                    "url": "https://kruxcdn.com/f2_QGTShZRUNFjdQ7sHkHns7u_751633/master.m3u8"
+                },
+                {
+                    "text": "Tập 10",
+                    "url": "https://zyxcdn.com/f2_eFKURn0hPLkbKzky1WNovi_748598/master.m3u8"
+                },
+                {
+                    "text": "Tập 9",
+                    "url": "https://zyxcdn.com/f2_kt6j9xKPSFjdl80dZzkvpZ_734474/master.m3u8"
+                },
+                {
+                    "text": "Tập 8",
+                    "url": "https://kruxcdn.com/f2_0TQVCoeDjA8XjXZLo6lgmQ_734861/master.m3u8"
+                },
+                {
+                    "text": "Tập 7",
+                    "url": "https://voqcdn.com/f2_lvG27iLaJ_uBNLPElHHraj_737818/master.m3u8"
+                },
+                {
+                    "text": "Tập 6",
+                    "url": "https://zyxcdn.com/f2_mgiHmQOxG2bVkB-Pe2Vfnd_737298/master.m3u8"
+                },
+                {
+                    "text": "Tập 5",
+                    "url": "https://voqcdn.com/f2_Ix3-PzC2R-8eU9jAXmY1VV_737523/master.m3u8"
+                },
+                {
+                    "text": "Tập 4",
+                    "url": "https://zyxcdn.com/f2_ZypmaEHtRX925D6hF5WoOG_739227/master.m3u8"
+                },
+                {
+                    "text": "Tập 3",
+                    "url": "https://kruxcdn.com/f2_P9E0YGLDJKYOn2lyT8MMi7_739337/master.m3u8"
+                },
+                {
+                    "text": "Tập 2",
+                    "url": "https://kruxcdn.com/f2_DImOjjLqHjWZgH3h64RHyq_737637/master.m3u8"
+                },
+                {
+                    "text": "Tập 1",
+                    "url": "https://zyxcdn.com/f2_TRLfByOv9n6J0hBP3GsqtY_734062/master.m3u8"
+                }
+            ]
         },
         {
-            "text": "Tập 11",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-11-sv1.html"
-        },
-        {
-            "text": "Tập 10",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-10-sv1.html"
-        },
-        {
-            "text": "Tập 9",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-9-sv1.html"
-        },
-        {
-            "text": "Tập 8",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-8-sv1.html"
-        },
-        {
-            "text": "Tập 7",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-7-sv1.html"
-        },
-        {
-            "text": "Tập 6",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-6-sv1.html"
-        },
-        {
-            "text": "Tập 5",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-5-sv1.html"
-        },
-        {
-            "text": "Tập 4",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-4-sv1.html"
-        },
-        {
-            "text": "Tập 3",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-3-sv1.html"
-        },
-        {
-            "text": "Tập 2",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-2-sv1.html"
-        },
-        {
-            "text": "Tập 1",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-1/tap-1-sv1.html"
-        },
-        {
-            "text": "Tập 12",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-12-sv1.html"
-        },
-        {
-            "text": "Tập 11",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-11-sv1.html"
-        },
-        {
-            "text": "Tập 10",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-10-sv1.html"
-        },
-        {
-            "text": "Tập 9",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-9-sv1.html"
-        },
-        {
-            "text": "Tập 8",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-8-sv1.html"
-        },
-        {
-            "text": "Tập 7",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-7-sv1.html"
-        },
-        {
-            "text": "Tập 6",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-6-sv1.html"
-        },
-        {
-            "text": "Tập 5",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-5-sv1.html"
-        },
-        {
-            "text": "Tập 4",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-4-sv1.html"
-        },
-        {
-            "text": "Tập 3",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-3-sv1.html"
-        },
-        {
-            "text": "Tập 2",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-2-sv1.html"
-        },
-        {
-            "text": "Tập 1",
-            "url": "https://hoathinh3d.co/xem-phim-dau-pha-thuong-khung-phan-2/tap-1-sv1.html"
+            "title": "Đấu Phá Thương Khung - Phần 2",
+            "thumb_url": "https://hoathinh3d.co/wp-content/uploads/2021/03/dau-pha-thuong-khung-phan-1-300x450.jpeg",
+            "status": "Phần 2",
+            "episodes": [
+                {
+                    "text": "Tập 12",
+                    "url": "https://kruxcdn.com/f2_wl1W-y9dxjsfnqAqI1nzGJ_862468/master.m3u8"
+                },
+                {
+                    "text": "Tập 11",
+                    "url": "https://kruxcdn.com/f2_M0-LsOjv15AHi_0QvMNzSt_729139/master.m3u8"
+                },
+                {
+                    "text": "Tập 10",
+                    "url": "https://kruxcdn.com/f2_J7qrKeNNuXsJLxMaBQ4AUb_724413/master.m3u8"
+                },
+                {
+                    "text": "Tập 9",
+                    "url": "https://kruxcdn.com/f2_t-LFryafCSpWx-QcnfKShO_721894/master.m3u8"
+                },
+                {
+                    "text": "Tập 8",
+                    "url": "https://zyxcdn.com/f2_vor9_UtyhIKYEK4QFiF-bC_723007/master.m3u8"
+                },
+                {
+                    "text": "Tập 7",
+                    "url": "https://kruxcdn.com/f2_LPhINa6nSfX9HWoja641fS_721972/master.m3u8"
+                },
+                {
+                    "text": "Tập 6",
+                    "url": "https://zyxcdn.com/f2_uZeQdwJlwnL7fAd7CNwGT3_728953/master.m3u8"
+                },
+                {
+                    "text": "Tập 5",
+                    "url": "https://voqcdn.com/f2_jhEzZhxIHsA64TH2mxWZjm_727404/master.m3u8"
+                },
+                {
+                    "text": "Tập 4",
+                    "url": "https://kruxcdn.com/f2_7bKoBXYBJwEqR-uiaOCLRs_730224/master.m3u8"
+                },
+                {
+                    "text": "Tập 3",
+                    "url": "https://voqcdn.com/f2_6i5MYFAl7GGJrD33OJaX6A_722123/master.m3u8"
+                },
+                {
+                    "text": "Tập 2",
+                    "url": "https://zyxcdn.com/f2_b2vH4kPctw6oqcGWEANCWC_727588/master.m3u8"
+                },
+                {
+                    "text": "Tập 1",
+                    "url": "https://kruxcdn.com/f2_JKfJnLebAWWVSp5zSx8f6G_714161/master.m3u8"
+                }
+            ]
         }
-    ]
-}
     ]
 }
